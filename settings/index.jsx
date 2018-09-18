@@ -2,7 +2,7 @@ function mySettings(props) {
   return (
     <Page>
       <Section
-        title={<Text bold align="center">Mylo Fitbit Account</Text>}>
+        title={<Text bold align="center">Fitbit Account</Text>}>
         <Oauth
           settingsKey="oauth"
           title="Login"
