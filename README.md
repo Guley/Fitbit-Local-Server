@@ -8,4 +8,4 @@ To build this app yourself, you have to own a Fitbit Ionic and visit this websit
 
 # Screenshots
 
-<img src="https://github.com/Guley/Fitbit-Local-Server/blob/master/resources/Clock-Face-screenshot.png">
+<img src="https://github.com/Guley/Fitbit-Local-Server/blob/master/resources/Clock-Face.png">
