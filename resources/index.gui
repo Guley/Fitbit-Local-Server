@@ -1,0 +1,20 @@
+<svg>
+  <image href="img/bg.jpg"/>
+  <image id="img_s_full" class="battery_image image"  href="img/battery_full.png" />
+  <image id="img_s_empty" class="battery_image image" href="img/battery_low.png" />
+  <text id="batteryField" class="battery_per"></text>
+  <text id="txtTime" class="clock-text">13:37</text>
+  <rect class="divider divider-top" />
+  <text id="txtDate" class="date-text">MON JANUARY 01</text>
+  <rect class="divider divider-btm" />
+  <svg class="stats">
+    <use id="iconHRM" href="#heart-beat" />
+    <text id="txtHRM" class="stat-left" />
+    <use id="stats-cycle" href="#cycleview">
+      <use href="#cycleview-item" class="cycle-item">
+        <image href="images/steps.png" class="image" />
+        <text class="stat-right" />
+      </use>
+    </use>
+  </svg>
+</svg>
